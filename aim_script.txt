@@ -1,2 +1,1 @@
 --TRIZ AIMBOT
- end)
