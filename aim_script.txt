@@ -9,7 +9,7 @@ local CoreGui = game:GetService("CoreGui")
 
 
 local LOCAL_PLAYER = Players.LocalPlayer
-local ACTIVATION_KEY = "TrizImba" 
+local ACTIVATION_KEY = "TrizSigma" 
 local Activated = false
 
 local CircleRadius = 170
